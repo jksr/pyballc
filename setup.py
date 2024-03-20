@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyballc", # Replace with your own username
-    version="0.0.1",
+    version="0.9.0",
     author="Wei Tian",
     author_email="jksr.tw@gmail.com",
     description='Python module for reading BAllC files',
